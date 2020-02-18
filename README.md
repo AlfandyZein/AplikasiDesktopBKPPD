@@ -1,2 +1,0 @@
-# AplikasiDesktopBKPPD
-Praktek Industri
