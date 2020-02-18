@@ -1,0 +1,24 @@
+C:\Users\alan\Desktop\Sistem Pendataan PNS BKPPD Surakarta\Sistem Pendataan PNS BKPPD Surakarta\bin\Debug\Sistem Pendataan PNS BKPPD Surakarta.exe
+C:\Users\alan\Desktop\Sistem Pendataan PNS BKPPD Surakarta\Sistem Pendataan PNS BKPPD Surakarta\bin\Debug\Sistem Pendataan PNS BKPPD Surakarta.pdb
+C:\Users\alan\Desktop\Sistem Pendataan PNS BKPPD Surakarta\Sistem Pendataan PNS BKPPD Surakarta\bin\Debug\Sistem Pendataan PNS BKPPD Surakarta.xml
+C:\Users\alan\Desktop\Sistem Pendataan PNS BKPPD Surakarta\Sistem Pendataan PNS BKPPD Surakarta\obj\x86\Debug\Sistem_Pendataan_PNS_BKPPD_Surakarta.frmDaftar.resources
+C:\Users\alan\Desktop\Sistem Pendataan PNS BKPPD Surakarta\Sistem Pendataan PNS BKPPD Surakarta\obj\x86\Debug\Sistem_Pendataan_PNS_BKPPD_Surakarta.Resources.resources
+C:\Users\alan\Desktop\Sistem Pendataan PNS BKPPD Surakarta\Sistem Pendataan PNS BKPPD Surakarta\obj\x86\Debug\Sistem Pendataan PNS BKPPD Surakarta.vbproj.GenerateResource.Cache
+C:\Users\alan\Desktop\Sistem Pendataan PNS BKPPD Surakarta\Sistem Pendataan PNS BKPPD Surakarta\obj\x86\Debug\Sistem Pendataan PNS BKPPD Surakarta.exe
+C:\Users\alan\Desktop\Sistem Pendataan PNS BKPPD Surakarta\Sistem Pendataan PNS BKPPD Surakarta\obj\x86\Debug\Sistem Pendataan PNS BKPPD Surakarta.xml
+C:\Users\alan\Desktop\Sistem Pendataan PNS BKPPD Surakarta\Sistem Pendataan PNS BKPPD Surakarta\obj\x86\Debug\Sistem Pendataan PNS BKPPD Surakarta.pdb
+C:\Users\alan\Desktop\Sistem Pendataan PNS BKPPD Surakarta\Sistem Pendataan PNS BKPPD Surakarta\obj\x86\Debug\Sistem_Pendataan_PNS_BKPPD_Surakarta.frmLogin.resources
+C:\Users\alan\Desktop\Sistem Pendataan PNS BKPPD Surakarta\Sistem Pendataan PNS BKPPD Surakarta\obj\x86\Debug\Sistem_Pendataan_PNS_BKPPD_Surakarta.frmMenuUtama.resources
+C:\Users\alan\Desktop\Sistem Pendataan PNS BKPPD Surakarta\Sistem Pendataan PNS BKPPD Surakarta\obj\x86\Debug\Sistem_Pendataan_PNS_BKPPD_Surakarta.frmUpdate.resources
+C:\Users\Earthsea\Desktop\Sistem Pendataan PNS BKPPD Surakarta\Sistem Pendataan PNS BKPPD Surakarta\obj\x86\Debug\Sistem Pendataan PNS BKPPD Surakarta.exe
+C:\Users\Earthsea\Desktop\Sistem Pendataan PNS BKPPD Surakarta\Sistem Pendataan PNS BKPPD Surakarta\obj\x86\Debug\Sistem Pendataan PNS BKPPD Surakarta.xml
+C:\Users\Earthsea\Desktop\Sistem Pendataan PNS BKPPD Surakarta\Sistem Pendataan PNS BKPPD Surakarta\obj\x86\Debug\Sistem Pendataan PNS BKPPD Surakarta.pdb
+C:\Users\Earthsea\Desktop\Sistem Pendataan PNS BKPPD Surakarta\Sistem Pendataan PNS BKPPD Surakarta\bin\Debug\Sistem Pendataan PNS BKPPD Surakarta.exe
+C:\Users\Earthsea\Desktop\Sistem Pendataan PNS BKPPD Surakarta\Sistem Pendataan PNS BKPPD Surakarta\bin\Debug\Sistem Pendataan PNS BKPPD Surakarta.pdb
+C:\Users\Earthsea\Desktop\Sistem Pendataan PNS BKPPD Surakarta\Sistem Pendataan PNS BKPPD Surakarta\bin\Debug\Sistem Pendataan PNS BKPPD Surakarta.xml
+C:\Users\Earthsea\Desktop\Sistem Pendataan PNS BKPPD Surakarta\Sistem Pendataan PNS BKPPD Surakarta\obj\x86\Debug\Sistem_Pendataan_PNS_BKPPD_Surakarta.frmDaftar.resources
+C:\Users\Earthsea\Desktop\Sistem Pendataan PNS BKPPD Surakarta\Sistem Pendataan PNS BKPPD Surakarta\obj\x86\Debug\Sistem_Pendataan_PNS_BKPPD_Surakarta.frmLogin.resources
+C:\Users\Earthsea\Desktop\Sistem Pendataan PNS BKPPD Surakarta\Sistem Pendataan PNS BKPPD Surakarta\obj\x86\Debug\Sistem_Pendataan_PNS_BKPPD_Surakarta.frmMenuUtama.resources
+C:\Users\Earthsea\Desktop\Sistem Pendataan PNS BKPPD Surakarta\Sistem Pendataan PNS BKPPD Surakarta\obj\x86\Debug\Sistem_Pendataan_PNS_BKPPD_Surakarta.frmUpdate.resources
+C:\Users\Earthsea\Desktop\Sistem Pendataan PNS BKPPD Surakarta\Sistem Pendataan PNS BKPPD Surakarta\obj\x86\Debug\Sistem_Pendataan_PNS_BKPPD_Surakarta.Resources.resources
+C:\Users\Earthsea\Desktop\Sistem Pendataan PNS BKPPD Surakarta\Sistem Pendataan PNS BKPPD Surakarta\obj\x86\Debug\Sistem Pendataan PNS BKPPD Surakarta.vbproj.GenerateResource.Cache
